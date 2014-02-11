@@ -1,0 +1,7 @@
+D:\Projects\REST\RESTPersonService\RESTPersonService\obj\Debug\RESTPersonService.csprojResolveAssemblyReference.cache
+D:\Projects\REST\RESTPersonService\RESTPersonService\bin\RESTPersonService.dll
+D:\Projects\REST\RESTPersonService\RESTPersonService\bin\RESTPersonService.pdb
+D:\Projects\REST\RESTPersonService\RESTPersonService\obj\Debug\RESTPersonService.dll
+D:\Projects\REST\RESTPersonService\RESTPersonService\obj\Debug\RESTPersonService.pdb
+D:\Projects\REST\RESTPersonService\RESTPersonService\bin\Newtonsoft.Json.dll
+D:\Projects\REST\RESTPersonService\RESTPersonService\bin\Newtonsoft.Json.xml
